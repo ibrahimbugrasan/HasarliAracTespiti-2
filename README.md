@@ -12,3 +12,15 @@ Bu proje, hasarlı araç görüntüleri üzerinde derin öğrenme tabanlı trans
 - Eğitim/test veri kümeleri için **epoch vs. loss** grafikleri.  
 - **Eğitim zamanı (training time)** ve **çıkarım zamanı (inference time)** analizi.  
 - IEEE konferans şablonuna uygun detaylı raporlama.
+
+## **Geliştirme Ortamı**  
+Proje geliştirme ve model eğitimi şu ortamda gerçekleştirilmiştir:  
+
+- **Programlama Dili:** Python 3.8+  
+- **Derin Öğrenme Frameworkleri:** PyTorch, TensorFlow  
+- **Kütüphaneler:**  
+  - `numpy`, `pandas`, `matplotlib`, `seaborn`  
+  - `scikit-learn`, `torchvision`, `tqdm`  
+  - `transformers`, `opencv-python`  
+- **Donanım:**  
+  - NVIDIA GPU (örnek: Tesla T4, 16 GB VRAM)  
