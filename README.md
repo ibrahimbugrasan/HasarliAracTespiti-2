@@ -82,7 +82,7 @@ Bağlantı başarılı olduktan sonra, veri setinin doğru dizinde olduğundan e
 
 ---
 
-### 🖼️ **Arayüz Görselleri**  
+### **Arayüz Görselleri**  
 
 Proje arayüzüne ait örnek görseller aşağıda yer almaktadır. Bu görseller, geliştirilen arayüzün nasıl göründüğünü ve kullanıcı etkileşimlerini göstermek amacıyla kullanılmaktadır.
 
