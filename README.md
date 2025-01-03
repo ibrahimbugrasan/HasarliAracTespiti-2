@@ -47,5 +47,27 @@ Terminal veya komut satırında aşağıdaki komutları çalıştırarak projeyi
 git clone https://github.com/ibrahimbugrasan/HasarliAracTespiti-2.git
 cd HasarliAracTespiti-2
 ```
+###  **Veri Setine Erişim**
+
+Projede kullanılan veri seti, **Google Drive** üzerinde aşağıdaki dizinde saklanmaktadır:  
+**`YazLabProjesi/DATABASE`**
+
+Google Colab ortamında geliştirilen projenizden bu verilere erişmek için şu adımları izleyin:  
+
+1. **Google Drive'ı Bağlayın:**  
+Google Colab'de, Drive'ınızı bağlamak için aşağıdaki kodu çalıştırın:  
+```python
+from google.colab import drive
+drive.mount('/content/drive')
+```
+2️. **Veri Seti Yolunu Doğrulayın**  
+Bağlantı başarılı olduktan sonra, veri setinin doğru dizinde olduğundan emin olun:  
+
+- **Terminal veya Dosya Gezgini ile Doğrulama:**  
+  Aşağıdaki yolun doğru olduğundan emin olun:  
+  ```plaintext
+  /content/drive/My Drive/YazLabProjesi/DATABASE
+```
+
 
 
