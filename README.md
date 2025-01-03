@@ -54,13 +54,13 @@ Projede kullanılan veri seti, **Google Drive** üzerinde aşağıdaki dizinde s
 
 Google Colab ortamında geliştirilen projenizden bu verilere erişmek için şu adımları izleyin:  
 
-1. **Google Drive'ı Bağlayın:**  
+### 1. **Google Drive'ı Bağlayın:**  
 Google Colab'de, Drive'ınızı bağlamak için aşağıdaki kodu çalıştırın:  
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-2️. **Veri Seti Yolunu Doğrulayın**  
+### 2️. **Veri Seti Yolunu Doğrulayın**  
 Bağlantı başarılı olduktan sonra, veri setinin doğru dizinde olduğundan emin olun:  
 
 - **Terminal veya Dosya Gezgini ile Doğrulama:**  
@@ -69,7 +69,7 @@ Bağlantı başarılı olduktan sonra, veri setinin doğru dizinde olduğundan e
   /content/drive/My Drive/YazLabProjesi/DATABASE
 
 
-3. **Google Colab’de Notebook’u Çalıştırın**
+### 3. **Google Colab’de Modeli Çalıştırın**
 
 1. **Proje Klasöründeki Google Colab Modelleri**  
    Proje klasöründe yer alan eğitim dosyasını açın.  
