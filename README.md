@@ -68,7 +68,6 @@ Bağlantı başarılı olduktan sonra, veri setinin doğru dizinde olduğundan e
   ```plaintext
   /content/drive/My Drive/YazLabProjesi/DATABASE
 
----
 
 3. **Google Colab’de Notebook’u Çalıştırın**
 
