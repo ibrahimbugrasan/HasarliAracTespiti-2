@@ -65,9 +65,8 @@ Bağlantı başarılı olduktan sonra, veri setinin doğru dizinde olduğundan e
 
 - **Terminal veya Dosya Gezgini ile Doğrulama:**  
   Aşağıdaki yolun doğru olduğundan emin olun:  
-  ```plaintext
+  ```python
   /content/drive/My Drive/YazLabProjesi/DATABASE
-
 
 ### 3. **Google Colab’de Modeli Çalıştırın**
 
@@ -75,11 +74,29 @@ Bağlantı başarılı olduktan sonra, veri setinin doğru dizinde olduğundan e
    Proje klasöründe yer alan eğitim dosyasını açın.  
    Örnek: `train_beit.ipynb`
 
-2. **Tüm Hücreleri Çalıştırın**  
+2. **Kod Satırını Çalıştırın**  
    Kod satırını çalıştırarak modeli eğitin.
 
 3. **Eğitim Sonuçları**  
-   Eğitim tamamlandığında, modelin çıktıları ve sonuçları görüp diğer model çıktılarıyla karşılaştırabilirsiniz.  
+   Eğitim tamamlandığında, modelin çıktıları ve sonuçları görüp diğer model çıktılarıyla karşılaştırabilirsiniz.
+
+---
+
+###  **İletişim**  
+
+Herhangi bir soru veya geri bildirim için aşağıdaki iletişim bilgilerini kullanabilirsiniz:  
+- **Ad Soyad:** İbrahim Buğra San  -  Esat Berat Uzunca 
+- **E-posta:** ibugrasan@gmail.com  -  uzuncaaesat@gmail.com
+- **LinkedIn:** [linkedin.com/in/ibrahimbugrasan](www.linkedin.com/in/ibrahimbugrasan)  -  [linkedin.com/in/esat-berat-uzunca-14a794258](https://www.linkedin.com/in/esat-berat-uzunca-14a794258/)
+- **GitHub::** https://github.com/ibrahimbugrasan  -  https://github.com/uzuncaesat
+
+---
+
+###  **Lisans**  
+
+Bu proje **MIT Lisansı** ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](./LICENSE) dosyasına göz atabilirsiniz.
+
+---
    
 
 
