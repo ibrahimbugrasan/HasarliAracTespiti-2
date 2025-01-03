@@ -86,11 +86,50 @@ Bağlantı başarılı olduktan sonra, veri setinin doğru dizinde olduğundan e
 
 Proje arayüzüne ait örnek görseller aşağıda yer almaktadır. Bu görseller, geliştirilen arayüzün nasıl göründüğünü ve kullanıcı etkileşimlerini göstermek amacıyla kullanılmaktadır.
 
-1. **Eğitim Sonuçları Görselleştirmesi**  
-   ![Eğitim Sonuçları Görseli](./images/results_visualization.png)
+1. **Swin Modeli ROC Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/SwinModeliRoc.jpg)
 
-2. **Model Eğitimi ve Test Süreci Görselleştirmesi**  
-   ![Model Eğitim Görseli](./images/model_training.png)
+2. **Swin Modeli Train-Test Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/SwinModeliTrainTest.jpg)
+
+3. **Swin Modeli Matrix Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/SwinModeliMatrix.jpg)
+
+4. **Beit Modeli ROC Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/BeitModeliROC.png)
+
+5. **Beit Modeli Train-Test Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/BeitModeliTrainTest.jpg)
+
+6. **Beit Modeli Matrix Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/BeitModeliMatrix.jpg)
+
+7. **ConvNext Modeli ROC Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/ConvNextModeliROC.jpg)
+
+8. **ConvNext Modeli Train-Test Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/ConvNextTrainTest.jpg)
+
+9. **ConvNext Modeli Matrix Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/ConvNextMatrix.jpg)
+
+10. **VGG16 Modeli ROC Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/VGG16ModeliROC.png)
+
+11. **VGG16 Modeli Train-Test Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/VGG16ModeliTrainTest.jpg)
+
+12. **VGG16 Modeli Matrix Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/VGG16ModeliMatrix.png)
+
+13. **Deit Modeli ROC Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/DeitModeliROC.jpg)
+
+14. **Deit Modeli Train-Test Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/DeitModeliTrainTest.jpg)
+
+15. **Deit Modeli Matrix Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/DeitModeliMatrix.jpg)
 
 ---
 
