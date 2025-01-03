@@ -87,7 +87,7 @@ Bağlantı başarılı olduktan sonra, veri setinin doğru dizinde olduğundan e
 Herhangi bir soru veya geri bildirim için aşağıdaki iletişim bilgilerini kullanabilirsiniz:  
 - **Ad Soyad:** İbrahim Buğra San  -  Esat Berat Uzunca 
 - **E-posta:** ibugrasan@gmail.com  -  uzuncaaesat@gmail.com
-- **LinkedIn:** [linkedin.com/in/ibrahimbugrasan](www.linkedin.com/in/ibrahimbugrasan)  -  [linkedin.com/in/esat-berat-uzunca-14a794258](https://www.linkedin.com/in/esat-berat-uzunca-14a794258/)
+- **LinkedIn:** www.linkedin.com/in/ibrahimbugrasan  -  https://www.linkedin.com/in/esat-berat-uzunca-14a794258/
 - **GitHub::** https://github.com/ibrahimbugrasan  -  https://github.com/uzuncaesat
 
 ---
