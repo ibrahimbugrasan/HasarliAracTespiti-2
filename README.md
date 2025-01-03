@@ -1,11 +1,11 @@
 # **Hasarlı Araç Tahmini ve Görüntü İşleme Projesi**
 
-🔍 **Proje Hakkında**  
+ **Proje Hakkında**  
 Bu proje, hasarlı araç görüntülerini sınıflandırmak için beş farklı derin öğrenme tabanlı transformatör modeli kullanmayı amaçlamaktadır. Veriler, modellerin performans metriklerine göre analiz edilmiş ve sonuçlar karşılaştırılmıştır.
 
 ---
 
-## 🚀 **Özellikler**
+##  **Özellikler**
 - **Beit**, **Swin**, **Deit**, **VGG16**, ve **ConvNext** modelleriyle sınıflandırma.  
 - **Performans Analizi:**  
   - Accuracy, Recall, Precision, Sensitivity, Specificity, F-Score, AUC değerleri.  
@@ -18,7 +18,7 @@ Bu proje, hasarlı araç görüntülerini sınıflandırmak için beş farklı d
 
 ---
 
-## 🛠️ **Geliştirme Ortamı**
+## **Geliştirme Ortamı**
 - **Programlama Dili:** Python  
 - **Derin Öğrenme Frameworkleri:**  
   - PyTorch  
@@ -28,4 +28,24 @@ Bu proje, hasarlı araç görüntülerini sınıflandırmak için beş farklı d
   - `numpy`, `pandas`, `matplotlib`, `seaborn`  
   - `scikit-learn`, `torchvision`, `tqdm`  
   - `transformers` 
-- **Donanım:** Google Colab GPU 
+- **Donanım:** Google Colab GPU
+
+##  **Proje Yapısı**
+```plaintext
+.
+├── Google Colab/            # Model eğitim kodları ve Model ile ilgili performans analizleri, grafikler, çıktılar ve metrikler
+├── Google Drive/            # Modeli eğitmek için Crawler ile çekilen veriler, Veri setleri              
+├── README.md                # Proje açıklamaları
+├── Rapor/                   # IEEE şablonuna uygun rapor
+```
+
+##  **Kurulum ve Çalıştırma**
+
+###  **Depoyu Klonlayın**  
+Terminal veya komut satırında aşağıdaki komutları çalıştırarak projeyi klonlayın:  
+```bash
+git clone https://github.com/ibrahimbugrasan/HasarliAracTespiti-2.git
+cd HasarliAracTespiti-2
+```
+
+
