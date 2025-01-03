@@ -82,6 +82,18 @@ Bağlantı başarılı olduktan sonra, veri setinin doğru dizinde olduğundan e
 
 ---
 
+### 🖼️ **Arayüz Görselleri**  
+
+Proje arayüzüne ait örnek görseller aşağıda yer almaktadır. Bu görseller, geliştirilen arayüzün nasıl göründüğünü ve kullanıcı etkileşimlerini göstermek amacıyla kullanılmaktadır.
+
+1. **Eğitim Sonuçları Görselleştirmesi**  
+   ![Eğitim Sonuçları Görseli](./images/results_visualization.png)
+
+2. **Model Eğitimi ve Test Süreci Görselleştirmesi**  
+   ![Model Eğitim Görseli](./images/model_training.png)
+
+---
+
 ###  **İletişim**  
 
 Herhangi bir soru veya geri bildirim için aşağıdaki iletişim bilgilerini kullanabilirsiniz:  
