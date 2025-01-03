@@ -67,7 +67,21 @@ Bağlantı başarılı olduktan sonra, veri setinin doğru dizinde olduğundan e
   Aşağıdaki yolun doğru olduğundan emin olun:  
   ```plaintext
   /content/drive/My Drive/YazLabProjesi/DATABASE
-```
+
+---
+
+3. **Google Colab’de Notebook’u Çalıştırın**
+
+1. **Proje Klasöründeki Google Colab Modelleri**  
+   Proje klasöründe yer alan eğitim dosyasını açın.  
+   Örnek: `train_beit.ipynb`
+
+2. **Tüm Hücreleri Çalıştırın**  
+   Kod satırını çalıştırarak modeli eğitin.
+
+3. **Eğitim Sonuçları**  
+   Eğitim tamamlandığında, modelin çıktıları ve sonuçları görüp diğer model çıktılarıyla karşılaştırabilirsiniz.  
+   
 
 
 
